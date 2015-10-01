@@ -14,7 +14,7 @@
 
 
         <TextView
-            android:text="9x5"
+            android:text="9x15"
             android:textSize="45dip"
             android:layout_columnSpan="4"
             android:layout_gravity="right"
