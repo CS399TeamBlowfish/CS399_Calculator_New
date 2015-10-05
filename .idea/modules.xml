@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CS399_Calculator_New-master.iml" filepath="$PROJECT_DIR$/CS399_Calculator_New-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS399_Calculator_New.iml" filepath="$PROJECT_DIR$/CS399_Calculator_New.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp4j-0.4.5/exp4j-0.4.5.iml" filepath="$PROJECT_DIR$/exp4j-0.4.5/exp4j-0.4.5.iml" />
     </modules>
   </component>
 </project>
